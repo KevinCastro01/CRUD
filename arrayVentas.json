@@ -1,0 +1,5 @@
+[{"id": "1", "nombre": "Kevin", "producto": "Pan", "valor": "5000", "cantidad": "2", "subTotal": "", "netoIva": "" },
+{"id": "2", "nombre": "Deiner", "producto": "Arroz", "valor": "10000", "cantidad": "2", "subTotal": "", "netoIva": "" },
+{"id": "3", "nombre": "Moises", "producto": "Leche", "valor": "15000", "cantidad": "2", "subTotal": "", "netoIva": "" },
+{"id": "4", "nombre": "Nicolas", "producto": "Queso", "valor": "12000", "cantidad": "2", "subTotal": "", "netoIva": "" }
+]
